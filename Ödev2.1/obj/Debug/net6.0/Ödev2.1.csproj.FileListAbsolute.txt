@@ -1,0 +1,17 @@
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\bin\Debug\net6.0\Ödev2.1.exe
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\bin\Debug\net6.0\Ödev2.1.deps.json
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\bin\Debug\net6.0\Ödev2.1.runtimeconfig.json
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\bin\Debug\net6.0\Ödev2.1.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\bin\Debug\net6.0\Ödev2.1.pdb
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\bin\Debug\net6.0\NCalc.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.csproj.AssemblyReference.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.AssemblyInfoInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.AssemblyInfo.cs
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.csproj.CopyComplete
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\refint\Ödev2.1.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.pdb
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\Ödev2.1.genruntimeconfig.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Ödev2.1\obj\Debug\net6.0\ref\Ödev2.1.dll

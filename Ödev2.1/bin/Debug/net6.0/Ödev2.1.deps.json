@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ödev2.1/1.0.0": {
+        "dependencies": {
+          "CoreCLR-NCalc": "2.2.101"
+        },
+        "runtime": {
+          "Ödev2.1.dll": {}
+        }
+      },
+      "CoreCLR-NCalc/2.2.101": {
+        "runtime": {
+          "lib/netstandard2.0/NCalc.dll": {
+            "assemblyVersion": "3.5.0.2",
+            "fileVersion": "3.5.0.2"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ödev2.1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CoreCLR-NCalc/2.2.101": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tDYCpyrkFUJ7J4MNt8vJSO55x1taIDnf1esoQBvfPHkg7CHyJ1BkQR5C9uU59OFe1mIoNEe/a51/hhj7cLJT3Q==",
+      "path": "coreclr-ncalc/2.2.101",
+      "hashPath": "coreclr-ncalc.2.2.101.nupkg.sha512"
+    }
+  }
+}
