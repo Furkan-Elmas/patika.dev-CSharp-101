@@ -6,10 +6,11 @@ class PrimeNumbers
 {
     static void Main()
     {
-        int[] numbers = new int[5];
+        int[] numbers = new int[20];
 
+        Console.WriteLine("Toplam 20 adet pozitif tamsayı girin: ");
 
-        for (int i = 0; i < 5; i++)
+        for (int i = 0; i < 20; i++)
         {
             try
             {
@@ -22,7 +23,7 @@ class PrimeNumbers
             }
             catch (Exception)
             {
-                Console.WriteLine("You have entered wrong character. Enter a numeric value");
+                Console.WriteLine("Yanlış karakter girdiniz. Numerik bir değer girin.");
                 i--;
                 continue;
             }
@@ -66,21 +67,21 @@ class PrimeNumbers
         primes.Sort();
         primes.Reverse();
 
-        Console.WriteLine("\n*************** NON-PRİMES ***************");
+        Console.WriteLine("\n*************** ASAL OLMAYAN SAYILAR ***************");
         foreach (int number in nonPrimes)
         {
             Console.Write(number + " ");
         }
-        Console.WriteLine("\nTotal number: " + nonPrimes.Count);
-        Console.WriteLine("Avarage: " + Convert.ToDecimal(nonPrimes.Sum()) / nonPrimes.Count);
+        Console.WriteLine("\nToplam Sayı: " + nonPrimes.Count);
+        Console.WriteLine("Ortalama: " + Convert.ToDecimal(nonPrimes.Sum()) / nonPrimes.Count);
 
-        Console.WriteLine("\n*************** PRİMES ***************");
+        Console.WriteLine("\n*************** ASAL SAYILAR ***************");
         foreach (int number in primes)
         {
             Console.Write(number + " ");
         }
-        Console.WriteLine("\nTotal number: " + primes.Count);
-        Console.WriteLine("Avarage: " + Convert.ToDecimal(primes.Sum()) / primes.Count);
+        Console.WriteLine("\nToplam Sayı: " + primes.Count);
+        Console.WriteLine("Ortalama: " + Convert.ToDecimal(primes.Sum()) / primes.Count);
         Console.ReadLine();
     }
 }
