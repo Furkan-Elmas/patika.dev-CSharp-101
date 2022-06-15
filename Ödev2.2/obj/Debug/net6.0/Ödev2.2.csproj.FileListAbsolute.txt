@@ -1,0 +1,15 @@
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\bin\Debug\net6.0\Ödev2.2.exe
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\bin\Debug\net6.0\Ödev2.2.deps.json
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\bin\Debug\net6.0\Ödev2.2.runtimeconfig.json
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\bin\Debug\net6.0\Ödev2.2.dll
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\bin\Debug\net6.0\Ödev2.2.pdb
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.csproj.AssemblyReference.cache
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.AssemblyInfoInputs.cache
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.AssemblyInfo.cs
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.dll
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\refint\Ödev2.2.dll
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.pdb
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\Ödev2.2.genruntimeconfig.cache
+C:\Users\Furkan Elmas\Desktop\Class_Applications\Ödev2.2\obj\Debug\net6.0\ref\Ödev2.2.dll
