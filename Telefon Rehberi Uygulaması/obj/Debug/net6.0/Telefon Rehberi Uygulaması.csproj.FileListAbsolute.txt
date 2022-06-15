@@ -1,0 +1,15 @@
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\bin\Debug\net6.0\Telefon Rehberi Uygulaması.exe
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\bin\Debug\net6.0\Telefon Rehberi Uygulaması.deps.json
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\bin\Debug\net6.0\Telefon Rehberi Uygulaması.runtimeconfig.json
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\bin\Debug\net6.0\Telefon Rehberi Uygulaması.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\bin\Debug\net6.0\Telefon Rehberi Uygulaması.pdb
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.AssemblyInfoInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.AssemblyInfo.cs
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\refint\Telefon Rehberi Uygulaması.dll
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.pdb
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\Telefon Rehberi Uygulaması.genruntimeconfig.cache
+C:\Users\Furkan Elmas\Desktop\GitHub_Assignments\patika.dev-CSharp-101\Telefon Rehberi Uygulaması\obj\Debug\net6.0\ref\Telefon Rehberi Uygulaması.dll
